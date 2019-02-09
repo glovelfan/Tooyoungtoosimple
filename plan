@@ -1,0 +1,11 @@
+2019/02/09     Plan:  (1) Dong finish the configuration of working environment 
+                          (initialize Google Cloud and connect with it) before Monday 11th Feb.
+                      (2) Fan get training data before Monday 11th Feb.
+                      (3) Fan write google doc before Monday 11th Feb.
+                      (4) Fan try to use TensorFlow in PC before Monday 11th Feb.
+                      
+           Agreement: (1) We use TensorFlow and Google Cloud as our working environment
+                      (2) We initialize Google Cloud via linux.
+                      (3) We three try different methods seperately 
+                          (Fan: traditional DNN, Yeh: change between different time steps, Dong: time series as a whole). 
+                 
