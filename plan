@@ -8,4 +8,6 @@
                       (2) We initialize Google Cloud via linux.
                       (3) We three try different methods seperately 
                           (Fan: traditional DNN, Yeh: change between different time steps, Dong: time series as a whole). 
+                          
+2019/02/10     idea:  (1) The circus flow in a tube has a precise N-S solution, we can start from this specific case.
                  
