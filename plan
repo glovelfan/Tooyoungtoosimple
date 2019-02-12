@@ -10,4 +10,9 @@
                           (Fan: traditional DNN, Yeh: change between different time steps, Dong: time series as a whole). 
                           
 2019/02/10     idea:  (1) The circus flow in a tube has a precise N-S solution, we can start from this specific case.
-                 
+
+
+2019/02/12     plan:  (1) Fan: Start with the pipe flow and build DNN to verify this circumstance. Generate data for the project 
+                                before 15th Feb.
+                      (2) Dong: Try to represent the data for experiment 1, and start to deal with experiment 2 by Sunday (2.17)
+                      (3) Paul: Bulid the Tensorflow/PyTorch on the Google Cloud, then run a simple CNN. (2.24)
